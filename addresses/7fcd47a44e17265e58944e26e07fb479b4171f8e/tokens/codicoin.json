@@ -1,0 +1,15 @@
+{
+  "address": "0x7fcd47a44e17265e58944e26e07fb479b4171f8e",
+  "tokenId": "codicoin",
+  "balance": 1000000,
+  "nonce": 0,
+  "firstTransaction": 1763163436117,
+  "lastTransaction": 1763163436122,
+  "totalReceived": 1000000,
+  "totalSent": 0,
+  "updatedAt": 1763163436122,
+  "locked": {
+    "amount": 0,
+    "locks": []
+  }
+}
