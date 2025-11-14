@@ -1,0 +1,7 @@
+# Esta pasta contém todos os tokens criados na CodiChain
+
+Cada subpasta representa um token, com sua estrutura completa:
+- contract.json: Informações do token
+- transactions/: Transações do token
+- wallets/: Saldos dos endereços
+
