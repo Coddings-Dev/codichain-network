@@ -1,0 +1,15 @@
+{
+  "address": "0x9003bf96fc9a4a1337eb9365aed359288c40b0f0",
+  "tokenId": "codicointest",
+  "balance": 10000,
+  "nonce": 0,
+  "firstTransaction": 1763167828990,
+  "lastTransaction": 1763167828994,
+  "totalReceived": 10000,
+  "totalSent": 0,
+  "updatedAt": 1763167828994,
+  "locked": {
+    "amount": 0,
+    "locks": []
+  }
+}
