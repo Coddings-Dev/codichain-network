@@ -9,20 +9,8 @@
     "pushToRemote": true,
     "retries": 0,
     "createdAt": 1763166433476,
-    "lastAttempt": null,
-    "status": "pending"
-  },
-  {
-    "id": "commit-1763166433472-htrhuamq5",
-    "message": "Sincronizar holders: 1 arquivo(s)",
-    "files": [
-      "tokens/codicoin/holders/7fcd47a44e17265e58944e26e07fb479b4171f8e.json"
-    ],
-    "pushToRemote": true,
-    "retries": 0,
-    "createdAt": 1763166433472,
-    "lastAttempt": 1763166434451,
+    "lastAttempt": 1763166435187,
     "status": "committed",
-    "commitHash": "1b58851eeca9d9abea7eae2474f0707bfb9c4966"
+    "commitHash": "542fcdb582525a42a4e504b06b5f25433cfb907b"
   }
 ]
