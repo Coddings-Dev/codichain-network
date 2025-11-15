@@ -7,10 +7,11 @@
       "addresses/7fcd47a44e17265e58944e26e07fb479b4171f8e/info.json"
     ],
     "pushToRemote": true,
-    "retries": 0,
+    "retries": 1,
     "createdAt": 1763166433476,
-    "lastAttempt": 1763166441819,
+    "lastAttempt": 1763166602834,
     "status": "committed",
-    "commitHash": "b590198b9eca3d959576286d928c0d383f1f66e5"
+    "commitHash": "b590198b9eca3d959576286d928c0d383f1f66e5",
+    "lastError": "fatal: Unable to create 'C:/Users/Aaraujjo/Documents/Coddings/codichain/codichain-network/.git/index.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.\n"
   }
 ]
