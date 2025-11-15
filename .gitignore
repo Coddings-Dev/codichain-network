@@ -1,0 +1,15 @@
+# Fila de commits pendentes (arquivo local, não deve ser commitado)
+.commit-queue.json
+
+# Lock do Git (pode ser removido automaticamente)
+.git/index.lock
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+
