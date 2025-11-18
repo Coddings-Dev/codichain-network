@@ -1,0 +1,34 @@
+{
+  "id": "codicoin",
+  "name": "CodiCoin",
+  "symbol": "CDC",
+  "decimals": 18,
+  "totalSupply": 1000000000,
+  "creator": "0x73f21bacfd9072c3996b26c9de776ce2538a5429",
+  "creatorBalance": 1000000000,
+  "status": "pending_first_offer",
+  "createdAt": 1763488722628,
+  "firstOfferAt": null,
+  "currentPrice": null,
+  "initialPrice": null,
+  "marketCap": null,
+  "backing": {
+    "currency": "BRL",
+    "initialAmount": 0,
+    "currentAmount": 0,
+    "locked": false,
+    "reserveAddress": null,
+    "history": []
+  },
+  "metadata": {
+    "description": "Moeda nativa da CodiChain",
+    "website": "",
+    "image": ""
+  },
+  "statistics": {
+    "circulatingSupply": 0,
+    "totalHolders": 1,
+    "totalTransactions": 0,
+    "volume24h": 0
+  }
+}
