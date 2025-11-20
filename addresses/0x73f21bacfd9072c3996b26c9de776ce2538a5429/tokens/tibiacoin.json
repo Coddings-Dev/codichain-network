@@ -1,0 +1,48 @@
+{
+  "contract": {
+    "id": "tibiacoin",
+    "name": "TibiaCoin",
+    "symbol": "TBC",
+    "decimals": 0,
+    "totalSupply": 1000,
+    "creator": "0x73f21bacfd9072c3996b26c9de776ce2538a5429",
+    "creatorBalance": 1000,
+    "status": "pending_first_offer",
+    "createdAt": 1763650925026,
+    "firstOfferAt": null,
+    "currentPrice": null,
+    "initialPrice": null,
+    "marketCap": null,
+    "backing": {
+      "currency": "BRL",
+      "initialAmount": 0,
+      "currentAmount": 0,
+      "locked": false,
+      "reserveAddress": null,
+      "history": []
+    },
+    "metadata": {
+      "description": "Moeda utilizada no jogo www.tibia.com",
+      "website": "",
+      "image": ""
+    },
+    "statistics": {
+      "circulatingSupply": 0,
+      "totalHolders": 1,
+      "totalTransactions": 0,
+      "volume24h": 0
+    }
+  },
+  "balance": {
+    "balance": 1000,
+    "nonce": 0,
+    "firstTransaction": 1763650925141,
+    "lastTransaction": 1763650925141,
+    "totalReceived": 1000,
+    "totalSent": 0
+  },
+  "holder": {
+    "balance": 1000,
+    "lastUpdated": 1763650925260
+  }
+}
