@@ -1,0 +1,15 @@
+{
+  "address": "0x73f21bacfd9072c3996b26c9de776ce2538a5429",
+  "tokenId": "tibiacoin",
+  "balance": 1000,
+  "nonce": 0,
+  "firstTransaction": 1763650925141,
+  "lastTransaction": 1763650925144,
+  "totalReceived": 1000,
+  "totalSent": 0,
+  "updatedAt": 1763650925144,
+  "locked": {
+    "amount": 0,
+    "locks": []
+  }
+}
